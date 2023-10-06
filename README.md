@@ -1,2 +1,2 @@
 # boids
-Implementation of Boids in highschool. Archiving for memories :3
+Implementation of Boids in Java from highschool. Archiving for memories :3
